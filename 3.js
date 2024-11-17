@@ -13,6 +13,7 @@
 */
 
 
+
 function combineKeysAndValues(keys, values) {
 
     // cоздаем массив пар через map:

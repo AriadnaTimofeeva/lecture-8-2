@@ -4,6 +4,7 @@
 Не используйте библиотечные функции.
 */
 
+
 function deepCopy(obj) {
 
     if (obj === null || typeof obj !== 'object') {

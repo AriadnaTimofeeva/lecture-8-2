@@ -9,6 +9,7 @@
 Возвращайте длину полученного массива с числовыми значениями.
 */
 
+
 function countNumericValues(obj) {
 
     if (typeof obj !== 'object' || obj === null) {
